@@ -1,2 +1,0 @@
-# gridu
-Hone depot project
